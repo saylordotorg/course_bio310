@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO310: Developmental Biology"
+course_description: "A survey of the field of developmental biology from its origins to the present day, from seminal historical experiments to modern techniques and the mechanisms of development. Follows a variety of organisms from their start at fertilization through the stages of their development and on to entire organismal and post-embryonic development, as well as the molecular and genetic regulations involved in these processes."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Cleavage** <span id="3"></span> 
 *Now that the egg is fertilized, it must still develop from a single
 cell into a multicellular organism.  The first step in this process is

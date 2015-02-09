@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO310: Developmental Biology"
+course_description: "A survey of the field of developmental biology from its origins to the present day, from seminal historical experiments to modern techniques and the mechanisms of development. Follows a variety of organisms from their start at fertilization through the stages of their development and on to entire organismal and post-embryonic development, as well as the molecular and genetic regulations involved in these processes."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Genes and Development** <span id="2"></span> 
 *Before you continue to follow the process of development in a newly
 fertilized egg, it is important to learn about another fundamental

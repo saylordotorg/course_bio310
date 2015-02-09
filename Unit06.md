@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO310: Developmental Biology"
+course_description: "A survey of the field of developmental biology from its origins to the present day, from seminal historical experiments to modern techniques and the mechanisms of development. Follows a variety of organisms from their start at fertilization through the stages of their development and on to entire organismal and post-embryonic development, as well as the molecular and genetic regulations involved in these processes."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Later Embryonic Development** <span id="6"></span> 
 *Once germ layers have been formed and patterning has begun, the embryo
 can begin to develop those complex tissues and organs it will need for
