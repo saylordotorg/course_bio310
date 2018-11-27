@@ -169,7 +169,7 @@ id="7.2.4"></span> 
 -   **Reading: The Saylor Foundation’s “Metamorphosis in Marine
     Invertebrates”**
     Link: The Saylor Foundation’s “[Metamorphosis in Marine
-    Invertebrates](http://www.saylor.org/site/wp-content/uploads/2011/05/BIO310-Metamorphosis-in-Marine-Invertebrates.pdf)”
+    Invertebrates](https://resources.saylor.org/archived/wp-content/uploads/2011/05/BIO310-Metamorphosis-in-Marine-Invertebrates.pdf)”
     (PDF)  
                               
      Instructions: Please read the entirety of the reading linked above.
